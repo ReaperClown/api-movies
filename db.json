@@ -110,5 +110,15 @@
       "genero": "Aventura",
       "id": 11
     },
+    {
+      "titulo": "Avengers: Endgame",
+      "urlFoto": "https://m.media-amazon.com/images/I/81rypQUyjFL._AC_SX425_.jpg",
+      "dtLancamento": "2019-04-22T03:00:00.000Z",
+      "descricao": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+      "nota": 8.4,
+      "urlIMDb": "https://www.imdb.com/title/tt4154796/?ref_=ttpl_pl_tt",
+      "genero": "Ficção cientifica",
+      "id": 12
+    }
   ]
 }
