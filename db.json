@@ -109,6 +109,16 @@
       "urlIMDb": "https://www.imdb.com/title/tt2527338/?ref_=vi_md_ti",
       "genero": "Aventura",
       "id": 11
+    },
+    {
+      "titulo": "Viúva Negra",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNjRmNDI5MjMtMmFhZi00YzcwLWI4ZGItMGI2MjI0N2Q3YmIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+      "dtLancamento": "2021-07-09T03:00:00.000Z",
+      "descricao": "In Marvel Studios' action-packed spy thriller Black Widow, Natasha Romanoff aka Black Widow confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+      "nota": 6.8,
+      "urlIMDb": "https://www.imdb.com/title/tt3480822/",
+      "genero": "Ação",
+      "id": 12
     }
   ]
 }
